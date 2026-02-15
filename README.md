@@ -1,4 +1,3 @@
-# sentinelx-ai-security-suite
 # SentinelX – AI-Driven Fraud Detection & Security Intelligence Platform
 
 SentinelX is a unified, offline AI security system designed to detect, analyze, and mitigate fraud generated using modern Generative AI techniques. The platform focuses on identifying malicious content across multiple digital channels including emails, websites, attachments, audio calls, and even AI systems themselves.
